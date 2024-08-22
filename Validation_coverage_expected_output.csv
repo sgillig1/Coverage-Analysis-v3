@@ -1,0 +1,4 @@
+Subtype,ROSALIND_Score (Count),ROSALIND_Score (%),Perfect_coverage (Count),Perfect_coverage (%),Coverage_with_one_mismatch (Count),Coverage_with_one_mismatch (%),Coverage_3 (Count),Coverage_3 (%),Coverage_5 (Count),Coverage_5 (%),Coverage_with_one_mismatch_per_assay (Count),Coverage_with_one_mismatch_per_assay (%),Total_sequences
+240710_TestA.fasta,5,100.0%,1,20.0%,4,80.0%,3,60.0%,2,40.0%,5,100.0%,5
+240710_TestB.fasta,3,42.9%,2,28.6%,3,42.9%,3,42.9%,3,42.9%,7,100.0%,7
+Aggregated,8,66.7%,3,25.0%,7,58.3%,6,50.0%,5,41.7%,12,100.0%,12
