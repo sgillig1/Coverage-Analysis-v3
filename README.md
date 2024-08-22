@@ -4,6 +4,9 @@
 
 **Coverage-Analysis-v3** is a software tool designed to analyze the coverage of sequences by primers for LAMP, PCR, and other nucleic acid amplification tests (NAATs). Implemented in a Jupyter Notebook format, this tool provides an interactive environment for data analysis. Originally developed for HIV-1, it can be applied to any pathogen with nucleic acid sequence diversity.
 
+This software was developed in the [Lutz Lab](https://www.lutzlab.org) at the University of Washington.
+
+
 ## Workflow
 
 Coverage is analyzed in several ways:
